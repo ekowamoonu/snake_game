@@ -5,7 +5,7 @@ The goal of the game is to eat as much food as possible without running into the
 As you eat food, the snake grows longer, making it more challenging to maneuver.
 The game typically becomes progressively harder as your snake gets longer, and it keeps track of your score based on the number of food items you've consumed.
 
-# Here's how a simple Snake game works:
+# Here's how my simple snake game works:
 
 ## Snake Movement: 
 You control the snake's direction using arrow keys (up, down, left, and right) or other controls. The snake moves continuously in the direction you choose until you change its direction.
